@@ -14,7 +14,7 @@ information on the open web.  It applies the agentic RAG principles
 described in the Milvus DeepSearcher article: multiple queries are
 generated from the original question, intermediate results are
 evaluated, and the search is refined iteratively until enough
-evidence is gathered【756007594819921†L52-L60】【756007594819921†L124-L135】.
+evidence is gathered
 
 Key components:
 
